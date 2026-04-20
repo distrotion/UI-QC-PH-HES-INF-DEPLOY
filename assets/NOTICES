@@ -1743,6 +1743,7 @@ THE SOFTWARE.
 --------------------------------------------------------------------------------
 async
 collection
+mime
 stream_channel
 typed_data
 
